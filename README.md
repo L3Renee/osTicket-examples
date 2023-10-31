@@ -9,7 +9,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
+- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://youtu.be/l_xQASSZoYU)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -31,25 +31,33 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
+<img src="https://github.com/L3Renee/osTicket-examples/assets/147538608/5a627a65-2708-47de-938c-dc3c37029486"/>
+</p>
+<p>
+Created a resource group in Azure
+</p>
+<br />
+<p>
+<img src="https://github.com/L3Renee/osTicket-examples/assets/147538608/87880e15-c492-4b5a-ac8f-40aadec7f965"/>
+</p>
+<p>
+Created a vitual machine. IP Address: 172.172.196.160.
+</p>
+<br />
+<img src="https://github.com/L3Renee/osTicket-examples/assets/147538608/6d511843-6569-4f88-9ad3-21f12b222d59"/>
+</p>
+<p>
+Remotely connected to virtual machine using remote desktop.
+
+</p>
+<p>
+<img src="https://github.com/L3Renee/osTicket-examples/assets/147538608/ef41eb5e-1d7c-40eb-babe-3378decc34ba"/>
+</p>
+<p>
+Enable and installed IIS for osTicket.
+</p>
+<br />
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-
-</p>
-<p>
-
-</p>
-<br />
